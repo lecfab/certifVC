@@ -4,7 +4,7 @@ The associated paper presents the methods and algorithms, and discusses the expe
 The detailed results are in [this table](datasets.md).
 
 ## Installation & compilation
-`$ git clone ...`
+`$ git clone https://github.com/lecfab/certifVC.git`
 
 `$ cd certifVC`
 
@@ -43,7 +43,7 @@ or double edges (`a b`, `b a`), remove them with `$ ./undirect DATASET NEWDATASE
 
 ## Contributors
 
-Copyright © 2023  ...
+Copyright © 2023  Fabrice Lécuyer (fabrice.lecuyer@lip6.fr)
 
 This program is free software: you can redistribute it and/or modify it with the same open-source licence (or a later version).
 It is distributed in the hope that it will be useful, but without any warranty. See the [GNU General Public License](LICENCE.md) for more details.

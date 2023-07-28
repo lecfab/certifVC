@@ -1,5 +1,5 @@
 // certifVC: Quality certification for Vertex Cover
-// Copyright (C) 2023 ...
+// Copyright (C) 2023 Fabrice Lécuyer (fabrice.lecuyer@lip6.fr)
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
